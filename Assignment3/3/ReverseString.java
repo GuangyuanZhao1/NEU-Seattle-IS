@@ -1,5 +1,6 @@
 
 // nice
+// total: 10/10
 public class ReverseString {
 	public String reverse(String s) {
 		s = s.toLowerCase();

@@ -1,4 +1,5 @@
 
+// 5/5
 public class Course {
 	private String name;
 	private int numberOfStudent = 0;

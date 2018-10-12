@@ -1,4 +1,5 @@
 
+// nice
 public class ReverseString {
 	public String reverse(String s) {
 		s = s.toLowerCase();
